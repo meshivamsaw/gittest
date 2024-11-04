@@ -1,1 +1,1 @@
-sample text for testing git.
+This is a sample text for testing git.
